@@ -1,3 +1,6 @@
 Hello git
 
 redact from github
+
+
+bad code ----------------------
